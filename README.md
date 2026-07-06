@@ -1,4 +1,4 @@
-# cpp-projects
+# C++ Learning Journey
 
 Welcome!
 
